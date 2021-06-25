@@ -1,4 +1,6 @@
 # iykra
+https://github.com/robconery/dvdrental 
+
 Scenario
 Please make SQL queries to answer these questions and post them in your github account!
 -	A customer wants to know the films about “astronauts”. How many recommendations could you give for him?
